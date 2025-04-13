@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Drafts/HMI Project Heuristic and Experimental evaluation of E commerce sites.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "HMI Project Heuristic and Experimental evaluation of E commerce sites"
             }
           }
         ]
@@ -168,9 +168,14 @@
   },
   "active": "c594916f847df94b",
   "lastOpenFiles": [
-    "projet HMI M CPS-24-25.pdf",
-    "HMI Project Heuristic and Experimental evaluation of E commerce sites.md",
+    "PDF/Heuristic_Evaluation_Workbook_-_Nielsen_Norman_Group.pdf",
+    "Drafts/Web-Site Evaluation.md",
+    "PDF/Web_Accessibility_and_Guidelines.pdf",
+    "PDF/projet HMI M CPS-24-25.pdf",
+    "PDF",
+    "Drafts/HMI Project Heuristic and Experimental evaluation of E commerce sites.md",
     "README.md",
+    "Drafts",
     "CPS/sem-2/projects/HMI project/Web_Accessibility_and_Guidelines.pdf",
     "CPS/sem-2/projects/HMI project/Web-Site Evaluation.md",
     "CPS/sem-2/projects/HMI project/Ergonomics - web specfications - Oussema Ben Ayech.pptx",
@@ -188,8 +193,6 @@
     "CTF/HTB/machines/titanic/titanic.md",
     "CTF/HTB/machines/titanic/hash.txt~",
     "CTF/HTB/machines/titanic/hash.txt",
-    "CTF/HTB/machines/titanic/gitea.db",
-    "CTF/HTB/machines/titanic/namp.txt",
     "CTF/OTW/natas/natas.md",
     "CTF/HTB/machines/dog/dog.md",
     "().md",
@@ -203,16 +206,13 @@
     "Pasted image 20250407100807.png",
     "Pasted image 20250407100527.png",
     "CTF/HTB/machines/dog/assets/Pasted image 20250407045856.png",
-    "CTF/HTB/machines/dog/secrets",
     "CTF/HTB/machines/dog/dog.htb/themes/README.md",
-    "CTF/HTB/machines/dog/dog.htb/themes",
     "CTF/HTB/machines/dog/dog.htb/sites/README.md",
     "CTF/HTB/machines/dog/dog.htb/layouts/README.md",
     "CTF/HTB/machines/dog/dog.htb/files/config_83dddd18e1ec67fd8ff5bba2453c7fb3/staging/README.md",
     "CTF/HTB/machines/dog/dog.htb/files/config_83dddd18e1ec67fd8ff5bba2453c7fb3/active/README.md",
     "CTF/HTB/machines/dog/dog.htb/files/README.md",
     "CTF/HTB/machines/dog/dog.htb/core/themes/stark/README.md",
-    "CTF/HTB/machines/dog/dog.htb/core/themes/seven/README.md",
-    "CTF/HTB/machines/dog/dog.htb/core/themes/basis/css/README.md"
+    "CTF/HTB/machines/dog/dog.htb/core/themes/seven/README.md"
   ]
 }
