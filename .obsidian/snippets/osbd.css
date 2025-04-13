@@ -1,0 +1,25 @@
+/* Make the Obsidian background transparent */
+body {
+    background-color: rgba(0, 0, 0, 0) !important;
+}
+
+/* Optionally, adjust the transparency of specific parts */
+.workspace-leaf {
+    background-color: rgba(0, 0, 0, 0) !important;
+}
+
+/* For the sidebar */
+.side-dock, .mod-right {
+    background-color: rgba(0, 0, 0, 0) !important;
+}
+
+/* For the title bar */
+.app-title-bar {
+    background-color: rgba(0, 0, 0, 0) !important;
+}
+
+/* Optional: Make the panels transparent as well */
+.pane {
+    background-color: rgba(0, 0, 0, 0) !important;
+}
+

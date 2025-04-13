@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "ad1c1fd0848d22f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "b46bf567b80afaf0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c594916f847df94b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "79a291a34f9d6ea3",
+    "type": "split",
+    "children": [
+      {
+        "id": "12a16c2b0288a4fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bfc2b4c15c4dc3b1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b04be392b39bdac6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f22218cfcfc2cfff",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "906421fb03648ac4",
+    "type": "split",
+    "children": [
+      {
+        "id": "479aee7e0db67fc0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1aa92c730c415564",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "b9b0fb5a40d72733",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "ca43ed6661c1e369",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8aabb688a2b9680c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Pasted image 20250114192725.png.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Pasted image 20250114192725.png"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c594916f847df94b",
+  "lastOpenFiles": [
+    "projet HMI M CPS-24-25.pdf",
+    "HMI Project Heuristic and Experimental evaluation of E commerce sites.md",
+    "README.md",
+    "CPS/sem-2/projects/HMI project/Web_Accessibility_and_Guidelines.pdf",
+    "CPS/sem-2/projects/HMI project/Web-Site Evaluation.md",
+    "CPS/sem-2/projects/HMI project/Ergonomics - web specfications - Oussema Ben Ayech.pptx",
+    "CPS/sem-2/projects/HMI project/projet HMI M CPS-24-25.pdf",
+    "CPS/sem-2/projects/HMI project/HMI Project Heuristic and Experimental evaluation of E commerce sites.md",
+    "other stuff/TODO.md",
+    "other stuff/PreW1pe0ut.md",
+    "CPS/sem-2/projects/Control Syste Project/FAULT--Digital twins in CPS and relationship with Control System.md",
+    "CPS/sem-2/projects/Control Syste Project/Digital twins in CPS and relationship with Control System.md",
+    "CTF/Ethernaut/Ethernaut.md",
+    "CTF/Ethernaut",
+    "other stuff/tech_Stuff.md",
+    "other stuff/series to watch.md",
+    "other stuff/t5albiz.md",
+    "CTF/HTB/machines/titanic/titanic.md",
+    "CTF/HTB/machines/titanic/hash.txt~",
+    "CTF/HTB/machines/titanic/hash.txt",
+    "CTF/HTB/machines/titanic/gitea.db",
+    "CTF/HTB/machines/titanic/namp.txt",
+    "CTF/OTW/natas/natas.md",
+    "CTF/HTB/machines/dog/dog.md",
+    "().md",
+    "CTF/HTB/machines/dog/assets/Pasted image 20250407100958.png",
+    "CTF/HTB/machines/dog/assets/Pasted image 20250407100807.png",
+    "CTF/HTB/machines/dog/assets/Pasted image 20250407100527.png",
+    "CTF/HTB/machines/dog/Pasted image 20250407100958.png",
+    "CTF/HTB/machines/dog/Pasted image 20250407100807.png",
+    "CTF/HTB/machines/dog/Pasted image 20250407100527.png",
+    "Pasted image 20250407100958.png",
+    "Pasted image 20250407100807.png",
+    "Pasted image 20250407100527.png",
+    "CTF/HTB/machines/dog/assets/Pasted image 20250407045856.png",
+    "CTF/HTB/machines/dog/secrets",
+    "CTF/HTB/machines/dog/dog.htb/themes/README.md",
+    "CTF/HTB/machines/dog/dog.htb/themes",
+    "CTF/HTB/machines/dog/dog.htb/sites/README.md",
+    "CTF/HTB/machines/dog/dog.htb/layouts/README.md",
+    "CTF/HTB/machines/dog/dog.htb/files/config_83dddd18e1ec67fd8ff5bba2453c7fb3/staging/README.md",
+    "CTF/HTB/machines/dog/dog.htb/files/config_83dddd18e1ec67fd8ff5bba2453c7fb3/active/README.md",
+    "CTF/HTB/machines/dog/dog.htb/files/README.md",
+    "CTF/HTB/machines/dog/dog.htb/core/themes/stark/README.md",
+    "CTF/HTB/machines/dog/dog.htb/core/themes/seven/README.md",
+    "CTF/HTB/machines/dog/dog.htb/core/themes/basis/css/README.md"
+  ]
+}
