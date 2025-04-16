@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Drafts/HMI Project Heuristic and Experimental evaluation of E commerce sites.md",
+                "file": "Drafts/Web-Site Evaluation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HMI Project Heuristic and Experimental evaluation of E commerce sites"
+              "title": "Web-Site Evaluation"
             }
           }
         ]
@@ -168,13 +168,15 @@
   },
   "active": "c594916f847df94b",
   "lastOpenFiles": [
+    "Drafts/Pasted image 20250416145057.png",
     "PDF/Heuristic_Evaluation_Workbook_-_Nielsen_Norman_Group.pdf",
-    "Drafts/Web-Site Evaluation.md",
-    "PDF/Web_Accessibility_and_Guidelines.pdf",
     "PDF/projet HMI M CPS-24-25.pdf",
-    "PDF",
+    "Drafts/Web-Site Evaluation.md",
     "Drafts/HMI Project Heuristic and Experimental evaluation of E commerce sites.md",
+    "Drafts/Pasted image 20250416144720.png",
     "README.md",
+    "PDF/Web_Accessibility_and_Guidelines.pdf",
+    "PDF",
     "Drafts",
     "CPS/sem-2/projects/HMI project/Web_Accessibility_and_Guidelines.pdf",
     "CPS/sem-2/projects/HMI project/Web-Site Evaluation.md",
@@ -192,7 +194,6 @@
     "other stuff/t5albiz.md",
     "CTF/HTB/machines/titanic/titanic.md",
     "CTF/HTB/machines/titanic/hash.txt~",
-    "CTF/HTB/machines/titanic/hash.txt",
     "CTF/OTW/natas/natas.md",
     "CTF/HTB/machines/dog/dog.md",
     "().md",
@@ -204,8 +205,6 @@
     "CTF/HTB/machines/dog/Pasted image 20250407100527.png",
     "Pasted image 20250407100958.png",
     "Pasted image 20250407100807.png",
-    "Pasted image 20250407100527.png",
-    "CTF/HTB/machines/dog/assets/Pasted image 20250407045856.png",
     "CTF/HTB/machines/dog/dog.htb/themes/README.md",
     "CTF/HTB/machines/dog/dog.htb/sites/README.md",
     "CTF/HTB/machines/dog/dog.htb/layouts/README.md",

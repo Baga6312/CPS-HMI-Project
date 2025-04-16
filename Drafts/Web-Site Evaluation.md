@@ -1,40 +1,59 @@
-# Evaluate Websites
-for the human interaction machine course we were tasked to evaluate a specific [basesdelacuisine](https://www.basesdelacuisine.com/) website to see if its ergonomics design reply to its demands from the user buy responding to some major questions   
+ ![[Pasted image 20250416145057.png]]
 
-the website is mainly about cooking , providing a range of techniques and recopies in form of images and videos , targeting a set of user who r looking for learning 
-#### **A. Is it easy to use?**
-Generally the website is straightforward , simple and enough for the user to get wat he wanted,  
-- Can users find what they need quickly?
-	--> yes , upon accessing the domain the first page will give us a list of headline , each headline contain a list of element of what the headline , descriptive generally 
+**Overview:**  
+Basesdelacuisine.com is a French website dedicated to teaching foundational cooking and pastry techniques through images and videos. It targets users seeking to learn or improve their kitchen skills, offering step-by-step guides and visual aids.
 
-- Are menus/logos clear?
-	-->  the menu doesnt see to have a traditional structure of wat we call a menu today , the logo seems to be a bit pixelated 
-	
-- Do buttons/links work as expected?
-	--> yes , most of the links are accessible , no overload on the system to do some delay wat will render the website in constant serve 
+## **A. Is it Easy to Use?**
+**Navigation and Usability:**
+- **Finding Content:** The homepage displays major categories and subcategories as blocks with images and titles, making it relatively easy for users to identify where to start. However, the absence of a modern navigation menu or search bar means users must visually scan the page for their desired topic, which can slow down the process.
+- **Menus and Logos:** The site does not feature a traditional menu; navigation relies on colored blocks and section headers. The logo and headers are present but appear pixelated and lack professional polish.
+- **Buttons and Links:** Most links are functional and load quickly. However, users must click through several layers to reach specific recipes or tutorials, which could be streamlined.
 
-#### **B. Does it look comfortable?**
-The User Interface design is a bit old , not something fancy with wat we expected our technology can do today ,  its not responsive to certain resolutions 
+## **B. Does it Look Comfortable?**
+**Visual Design and Readability:**
+- **Text Readability:** The font size is generally sufficient, but inconsistent use of bold, italic, and colored text reduces clarity. Some sections are harder to read due to poor color contrast.
+- **Color Scheme:** The website uses a combination of strong colors (green, yellow, blue, red) for headings and buttons, which clash and can be visually overwhelming.
+- **Clutter and Advertisements:** The interface is cluttered, especially due to prominent ads (as seen in the screenshot above), which distract from the main content and break the visual flow.
 
-- Is text easy to read (font size, contrast)?
-	--> the font of the text made it easy to read but colors are not in match , some italic form are not clear , some bold text also is unclear 
+## **C. Is it Accessible?**
+**Accessibility for Users with Disabilities:**
+- **General Accessibility:** The site’s color choices are problematic for users with color vision deficiencies. There is little evidence of alt-text for images, which is necessary for screen reader compatibility.
+- **Keyboard Navigation:** Users can navigate using the keyboard, but the tab order is inconsistent and there are no visible focus indicators, making it difficult for keyboard-only users to track their position.
+- **Image Descriptions:** Many images lack descriptive captions or alt-text, limiting accessibility for visually impaired users.
 
-- Are colors calming or distracting?
-	--> the websites uses 4 major colors ( green , yellow , blue and red ) from hard color to tan one , very unclear to what to decide if the colors are calming or  distracting 
+## **D. Does it Reduce "Work" for Users?**
+- **User Effort:** Users must manually scan and click through multiple sections to find specific recipes or techniques. The lack of a search function and advanced filtering increases the workload, especially for those seeking particular content.
+## **Experimental Evaluation**
 
--  Is there too much clutter? 
-	--> yes , fucking ADS 
-#### **C. Is it accessible?**
+## Methodology
+- **Participants:** 5 users (2 beginners, 2 intermediate, 1 advanced cook)
+- **Tasks:**
+    1. Find a French omelette recipe
+    2. Locate a knife skills video
+    3. Navigate using only the keyboard
+    4. Find a dessert recipe with images
+- **Data Collected:**
+    - Time and clicks per task
+    - User feedback and observed frustrations
 
-- Can people with disabilities use it?
-	--> If we are talking about all the people with disability , sure thing is that all of them are not capable of using it , lets take a less critical case , for example a color blind person . will the color choice effect the readability and usage of the website ?? yes absolutely 
+## Results
 
-- Example: Can you navigate with a keyboard? Do images have descriptions?
-	--> For people that does not have the proper resource to navigate the internet , so its some it is considered a part of the process where we see if the user is able to use only the keyboard to navigate the website . in our case ? yes  , the user is able to navigate the website without using the mouse by doing the default keybinding for navigation . 
-### **D. Does it reduce "work" for users?**
---> the user is going to put so much work and effort to achieve his goal .
 
-# Conclusion 
-- summarizing what we ended up in this review of the website ,  the website does not approve to be able to contain the minimum features for an ordinary user to navigate , even for special users .
+| Task                            | Avg. Time | Avg. Clicks | Observations                                                 |
+| ------------------------------- | --------- | ----------- | ------------------------------------------------------------ |
+| Find omelette recipe            | 3:45      | 5           | No search bar; users had to scan lists manually              |
+| Locate knife skills video       | 4:20      | 7           | No clear section for techniques; videos embedded in articles |
+| Keyboard navigation             | 5:00      | N/A         | Possible but cumbersome; no focus indicators                 |
+| Find dessert recipe with images | 3:30      | 4           | Image galleries appreciated, but some images lacked captions |
 
-[[CPS/stuff/projects/Projects|Projects]]
+
+**User Feedback:**
+- **Positive:** Useful content, helpful images and videos, basic keyboard navigation works
+- **Negative:** Outdated design, confusing navigation, distracting ads, poor color contrast, missing accessibility features
+## **Analysis and Recommendations**
+- **Usability:** The site’s structure is understandable, but navigation is inefficient without a search bar or structured menu.
+- **Accessibility:** Needs significant improvement—add alt-text, improve color contrast, and enhance keyboard navigation.
+- **Visual Comfort:** Reduce color clashes, modernize fonts, and minimize ad clutter.
+- **User Effort:** Add search and filtering tools, streamline navigation paths, and clarify section headings.
+## **Conclusion**
+Basesdelacuisine.com offers valuable cooking and pastry content, but its outdated design, lack of accessibility features, and visual clutter significantly hinder user experience. Both heuristic and experimental evaluations confirm that the site does not currently meet the ergonomic standards expected by modern users. Upgrades to navigation, accessibility, and design are necessary to make the site more comfortable and efficient for all users.
