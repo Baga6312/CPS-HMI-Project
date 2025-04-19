@@ -11,12 +11,14 @@
             "id": "c594916f847df94b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "PDF/projet HMI M CPS-24-25.pdf"
+                "file": "Drafts/HMI Project Heuristic and Experimental evaluation of E commerce sites.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "projet HMI M CPS-24-25"
+              "icon": "lucide-file",
+              "title": "HMI Project Heuristic and Experimental evaluation of E commerce sites"
             }
           }
         ]
@@ -166,6 +168,13 @@
   },
   "active": "c594916f847df94b",
   "lastOpenFiles": [
+    "src/README.md",
+    "PDF/projet HMI M CPS-24-25.pdf",
+    "PDF/HMI-Project.pdf",
+    "PDF/Heuristic_Evaluation_Workbook_-_Nielsen_Norman_Group.pdf",
+    "Drafts/HMI Project Heuristic and Experimental evaluation of E commerce sites.md",
+    "Drafts/Web-Site Evaluation.md",
+    "Drafts/Pasted image 20250416145057.png",
     "src/bot_eval.py",
     "src/website_evaluation.csv",
     "src/mouse_movement.csv",
@@ -175,13 +184,6 @@
     "src/screenshots",
     "src/screenshots/action_1.png",
     "PDF/Web_Accessibility_and_Guidelines.pdf",
-    "PDF/projet HMI M CPS-24-25.pdf",
-    "PDF/Heuristic_Evaluation_Workbook_-_Nielsen_Norman_Group.pdf",
-    "Drafts/Web-Site Evaluation.md",
-    "Drafts/HMI Project Heuristic and Experimental evaluation of E commerce sites.md",
-    "src/website_audit.csv",
-    "src/requirements.txt",
-    "Drafts/Pasted image 20250416145057.png",
     "Drafts/Pasted image 20250416144720.png",
     "README.md",
     "CPS/sem-2/projects/HMI project/Web-Site Evaluation.md",

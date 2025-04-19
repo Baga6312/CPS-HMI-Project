@@ -1,17 +1,17 @@
 evaluation_type,framework,criterion,issues,recommendations,evaluator,website,url,date
-heuristic,Bastien & Scapin,Guidance - Prompting,No automated issues detected for Guidance - Prompting,Consider manual review for this criterion,AutomatedBot,TEK-UP,https://tek-up.de/,2025-04-19
+heuristic,Bastien & Scapin,Guidance - Prompting,Vague call-to-action buttons found,Use specific action verbs on buttons,AutomatedBot,TEK-UP,https://tek-up.de/,2025-04-19
 heuristic,Bastien & Scapin,Guidance - Grouping/Distinction of Items,No automated issues detected for Guidance - Grouping/Distinction of Items,Consider manual review for this criterion,AutomatedBot,TEK-UP,https://tek-up.de/,2025-04-19
-heuristic,Bastien & Scapin,Guidance - Immediate Feedback,No visible loading indicators found,Add loading indicators to show system status during operations,AutomatedBot,TEK-UP,https://tek-up.de/,2025-04-19
+heuristic,Bastien & Scapin,Guidance - Immediate Feedback,Forms may lack immediate feedback after submission,Add visual feedback for form submissions,AutomatedBot,TEK-UP,https://tek-up.de/,2025-04-19
 heuristic,Bastien & Scapin,Guidance - Legibility,No automated issues detected for Guidance - Legibility,Consider manual review for this criterion,AutomatedBot,TEK-UP,https://tek-up.de/,2025-04-19
-heuristic,Bastien & Scapin,Workload - Brevity,No automated issues detected for Workload - Brevity,Consider manual review for this criterion,AutomatedBot,TEK-UP,https://tek-up.de/,2025-04-19
-heuristic,Bastien & Scapin,Workload - Information Density,No automated issues detected for Workload - Information Density,Consider manual review for this criterion,AutomatedBot,TEK-UP,https://tek-up.de/,2025-04-19
+heuristic,Bastien & Scapin,Workload - Brevity,Interface may be too complex (1703 elements),Simplify interface by removing unnecessary elements,AutomatedBot,TEK-UP,https://tek-up.de/,2025-04-19
+heuristic,Bastien & Scapin,Workload - Information Density,Form fields lack proper labels; Navigation may lack indicators for current location,Add descriptive labels to all form fields; Add 'active' state indicators to navigation items,AutomatedBot,TEK-UP,https://tek-up.de/,2025-04-19
 heuristic,Bastien & Scapin,Explicit Control - Explicit User Action,No automated issues detected for Explicit Control - Explicit User Action,Consider manual review for this criterion,AutomatedBot,TEK-UP,https://tek-up.de/,2025-04-19
-heuristic,Bastien & Scapin,Explicit Control - User Control,No automated issues detected for Explicit Control - User Control,Consider manual review for this criterion,AutomatedBot,TEK-UP,https://tek-up.de/,2025-04-19
+heuristic,Bastien & Scapin,Explicit Control - User Control,Forms lack cancel/back options; Forms lack cancel/back options,Add cancel and back buttons to forms; Add cancel and back buttons to forms,AutomatedBot,TEK-UP,https://tek-up.de/,2025-04-19
 heuristic,Bastien & Scapin,Adaptability - Flexibility,No keyboard shortcuts found; No search functionality found,Implement keyboard shortcuts for common actions; Add search functionality for quick access to content,AutomatedBot,TEK-UP,https://tek-up.de/,2025-04-19
 heuristic,Bastien & Scapin,Adaptability - User Experience,No automated issues detected for Adaptability - User Experience,Consider manual review for this criterion,AutomatedBot,TEK-UP,https://tek-up.de/,2025-04-19
-heuristic,Bastien & Scapin,Error Management - Error Protection,No automated issues detected for Error Management - Error Protection,Consider manual review for this criterion,AutomatedBot,TEK-UP,https://tek-up.de/,2025-04-19
-heuristic,Bastien & Scapin,Error Management - Error Message Quality,No styled error messages found,Add clear visual styling to error messages,AutomatedBot,TEK-UP,https://tek-up.de/,2025-04-19
+heuristic,Bastien & Scapin,Error Management - Error Protection,Forms may lack required field validation,Add required field validation to prevent submission errors,AutomatedBot,TEK-UP,https://tek-up.de/,2025-04-19
+heuristic,Bastien & Scapin,Error Management - Error Message Quality,No automated issues detected for Error Management - Error Message Quality,Consider manual review for this criterion,AutomatedBot,TEK-UP,https://tek-up.de/,2025-04-19
 heuristic,Bastien & Scapin,Error Management - Error Correction,No automated issues detected for Error Management - Error Correction,Consider manual review for this criterion,AutomatedBot,TEK-UP,https://tek-up.de/,2025-04-19
-heuristic,Bastien & Scapin,Consistency,No automated issues detected for Consistency,Consider manual review for this criterion,AutomatedBot,TEK-UP,https://tek-up.de/,2025-04-19
-heuristic,Bastien & Scapin,Significance of Codes,No automated issues detected for Significance of Codes,Consider manual review for this criterion,AutomatedBot,TEK-UP,https://tek-up.de/,2025-04-19
+heuristic,Bastien & Scapin,Consistency,Inconsistent button styling,Standardize button styles throughout the interface,AutomatedBot,TEK-UP,https://tek-up.de/,2025-04-19
+heuristic,Bastien & Scapin,Significance of Codes,Icons lack meaningful labels,Add aria-label or title attributes to icons,AutomatedBot,TEK-UP,https://tek-up.de/,2025-04-19
 heuristic,Bastien & Scapin,Compatibility,No automated issues detected for Compatibility,Consider manual review for this criterion,AutomatedBot,TEK-UP,https://tek-up.de/,2025-04-19
