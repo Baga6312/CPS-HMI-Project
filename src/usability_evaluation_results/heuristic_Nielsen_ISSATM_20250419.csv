@@ -1,0 +1,11 @@
+evaluation_type,framework,criterion,issues,recommendations,evaluator,website,url,date
+heuristic,Nielsen,Visibility of System Status,No visible loading indicators found,Add loading indicators to show system status during operations,AutomatedBot,ISSATM,http://www.issatm.rnu.tn/fr/index.php,2025-04-19
+heuristic,Nielsen,Match Between System and the Real World,No automated issues detected for Match Between System and the Real World,Consider manual review for this criterion,AutomatedBot,ISSATM,http://www.issatm.rnu.tn/fr/index.php,2025-04-19
+heuristic,Nielsen,User Control and Freedom,No automated issues detected for User Control and Freedom,Consider manual review for this criterion,AutomatedBot,ISSATM,http://www.issatm.rnu.tn/fr/index.php,2025-04-19
+heuristic,Nielsen,Consistency and Standards,No automated issues detected for Consistency and Standards,Consider manual review for this criterion,AutomatedBot,ISSATM,http://www.issatm.rnu.tn/fr/index.php,2025-04-19
+heuristic,Nielsen,Error Prevention,No automated issues detected for Error Prevention,Consider manual review for this criterion,AutomatedBot,ISSATM,http://www.issatm.rnu.tn/fr/index.php,2025-04-19
+heuristic,Nielsen,Recognition Rather Than Recall,No automated issues detected for Recognition Rather Than Recall,Consider manual review for this criterion,AutomatedBot,ISSATM,http://www.issatm.rnu.tn/fr/index.php,2025-04-19
+heuristic,Nielsen,Flexibility and Efficiency of Use,No keyboard shortcuts found; No search functionality found,Implement keyboard shortcuts for common actions; Add search functionality for quick access to content,AutomatedBot,ISSATM,http://www.issatm.rnu.tn/fr/index.php,2025-04-19
+heuristic,Nielsen,Aesthetic and Minimalist Design,No automated issues detected for Aesthetic and Minimalist Design,Consider manual review for this criterion,AutomatedBot,ISSATM,http://www.issatm.rnu.tn/fr/index.php,2025-04-19
+heuristic,Nielsen,"Help Users Recognize, Diagnose, and Recover from Errors",No styled error messages found,Add clear visual styling to error messages,AutomatedBot,ISSATM,http://www.issatm.rnu.tn/fr/index.php,2025-04-19
+heuristic,Nielsen,Help and Documentation,No help or documentation links found,Add easily accessible help and FAQ sections,AutomatedBot,ISSATM,http://www.issatm.rnu.tn/fr/index.php,2025-04-19
