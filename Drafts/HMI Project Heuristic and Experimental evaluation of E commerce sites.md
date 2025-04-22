@@ -3,7 +3,7 @@
 2. **INTRODUCTION**
 3. **RESEARCH METHOD**
 	1. Web Content Accessibility Guidelines (WCAG)
-	2. Heuristic Evaluation
+	2. Heuristic Evaluationg
 		1. Heuristic Criteria of Bastien and Scapin
 		2. Heuristic Criteria of Nielsen
 	3. Experimental Evaluation

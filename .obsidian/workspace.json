@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "ad1c1fd0848d22f9",
+    "id": "0057413e6d2207c0",
     "type": "split",
     "children": [
       {
-        "id": "b46bf567b80afaf0",
+        "id": "d7cff534a5cb6d44",
         "type": "tabs",
         "children": [
           {
-            "id": "c594916f847df94b",
+            "id": "ee6a38902b798d78",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "79a291a34f9d6ea3",
+    "id": "82629add1cedaf7a",
     "type": "split",
     "children": [
       {
-        "id": "12a16c2b0288a4fa",
+        "id": "ef6d0ec42399af90",
         "type": "tabs",
         "children": [
           {
-            "id": "bfc2b4c15c4dc3b1",
+            "id": "d8ed4e4d7d248025",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "b04be392b39bdac6",
+            "id": "dba1b3e7b0efbbcb",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "f22218cfcfc2cfff",
+            "id": "bc67f6ab3aef355a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,19 +81,20 @@
     "width": 200
   },
   "right": {
-    "id": "906421fb03648ac4",
+    "id": "3b050af6e16da36e",
     "type": "split",
     "children": [
       {
-        "id": "479aee7e0db67fc0",
+        "id": "7e1677911af40e5c",
         "type": "tabs",
         "children": [
           {
-            "id": "1aa92c730c415564",
+            "id": "e510aaeade8cde30",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Drafts/HMI Project Heuristic and Experimental evaluation of E commerce sites.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,24 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for HMI Project Heuristic and Experimental evaluation of E commerce sites"
             }
           },
           {
-            "id": "b9b0fb5a40d72733",
+            "id": "bc3ed1fce95ea3fe",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Drafts/HMI Project Heuristic and Experimental evaluation of E commerce sites.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from HMI Project Heuristic and Experimental evaluation of E commerce sites"
             }
           },
           {
-            "id": "ca43ed6661c1e369",
+            "id": "f7d32b2fdf5367b4",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -135,18 +137,18 @@
             }
           },
           {
-            "id": "8aabb688a2b9680c",
+            "id": "c5935399955df145",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20250114192725.png.md",
+                "file": "Drafts/HMI Project Heuristic and Experimental evaluation of E commerce sites.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pasted image 20250114192725.png"
+              "title": "Outline of HMI Project Heuristic and Experimental evaluation of E commerce sites"
             }
           }
         ]
@@ -166,53 +168,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c594916f847df94b",
+  "active": "ee6a38902b798d78",
   "lastOpenFiles": [
-    "projects.zip",
-    "zilYjJfs",
-    "HMI-Project Oussema Ben Ayech - Khouloud bejaoui .pdf",
-    "Drafts/HMI-Project Oussema Ben Ayech - Khouloud bejaoui .pdf",
-    "Drafts/Table of Contents.pdf",
-    "PDF/HMI-Project.pdf",
-    "PDF/HMI-Project.pdf",
-    "Drafts/HMI Project Heuristic and Experimental evaluation of E commerce sites.md",
-    "Drafts/Web-Site Evaluation basedelacuisine.com.md",
-    "src/README.md",
-    "PDF/projet HMI M CPS-24-25.pdf",
-    "PDF/Heuristic_Evaluation_Workbook_-_Nielsen_Norman_Group.pdf",
-    "Drafts/Web-Site Evaluation.md",
-    "Drafts/Pasted image 20250416145057.png",
-    "src/bot_eval.py",
-    "src/website_evaluation.csv",
-    "src/screenshots/click_1.png",
-    "src/screenshots/action_1.png",
-    "Drafts/Pasted image 20250416144720.png",
-    "README.md",
-    "CPS/sem-2/projects/HMI project/Web-Site Evaluation.md",
-    "CPS/sem-2/projects/HMI project/HMI Project Heuristic and Experimental evaluation of E commerce sites.md",
-    "other stuff/TODO.md",
-    "other stuff/PreW1pe0ut.md",
-    "CPS/sem-2/projects/Control Syste Project/FAULT--Digital twins in CPS and relationship with Control System.md",
-    "CPS/sem-2/projects/Control Syste Project/Digital twins in CPS and relationship with Control System.md",
-    "CTF/Ethernaut/Ethernaut.md",
-    "other stuff/tech_Stuff.md",
-    "other stuff/series to watch.md",
-    "other stuff/t5albiz.md",
-    "CTF/HTB/machines/titanic/titanic.md",
-    "CTF/OTW/natas/natas.md",
-    "CTF/HTB/machines/dog/dog.md",
-    "().md",
-    "CTF/HTB/machines/dog/assets/Pasted image 20250407100958.png",
-    "CTF/HTB/machines/dog/assets/Pasted image 20250407100807.png",
-    "CTF/HTB/machines/dog/assets/Pasted image 20250407100527.png",
-    "CTF/HTB/machines/dog/Pasted image 20250407100958.png",
-    "CTF/HTB/machines/dog/Pasted image 20250407100807.png",
-    "CTF/HTB/machines/dog/Pasted image 20250407100527.png",
-    "CTF/HTB/machines/dog/dog.htb/themes/README.md",
-    "CTF/HTB/machines/dog/dog.htb/sites/README.md",
-    "CTF/HTB/machines/dog/dog.htb/layouts/README.md",
-    "CTF/HTB/machines/dog/dog.htb/files/config_83dddd18e1ec67fd8ff5bba2453c7fb3/staging/README.md",
-    "CTF/HTB/machines/dog/dog.htb/files/config_83dddd18e1ec67fd8ff5bba2453c7fb3/active/README.md",
-    "CTF/HTB/machines/dog/dog.htb/files/README.md"
+    "Drafts/HMI Project Heuristic and Experimental evaluation of E commerce sites.md"
   ]
 }
